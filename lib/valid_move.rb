@@ -7,6 +7,8 @@ def valid_move?(board, index)
     return true
   end
 end
+def on_the_board?(board, index)
+  
   
 end
 
