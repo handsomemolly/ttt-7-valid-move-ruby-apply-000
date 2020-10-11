@@ -15,7 +15,11 @@ def on_the_board?(num)
   end
 end
 
-if (position_taken?(board, index)
+if (position_taken?(board, index)) == false && on_the_board(num) == true
+  return true
+else
+  return false
+end
   
 end
 
