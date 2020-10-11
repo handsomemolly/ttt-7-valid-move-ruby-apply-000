@@ -13,6 +13,8 @@ def on_the_board?(num)
   else
     return false
   end
+end
+
   
   
 end
