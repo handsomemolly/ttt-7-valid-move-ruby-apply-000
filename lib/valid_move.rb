@@ -15,7 +15,7 @@ def on_the_board?(num)
   end
 end
 
-  
+if position_taken?  
   
 end
 
